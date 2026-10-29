@@ -270,6 +270,11 @@ projects:
     github_id: browser-use/browser-use
     labels: ["python"]
     category: "frameworks"
+  - name: ViteHub
+    github_id: vite-hub/vitehub
+    npm_id: vite-hub
+    labels: ["javascript"]
+    category: "frameworks"
   # Multi-agent and orchestration
   - name: openai-agents-python
     github_id: openai/openai-agents-python
